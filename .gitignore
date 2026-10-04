@@ -36,3 +36,7 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+
+# Personal AI-tool files (claude-mem memory, Serena config): local only
+CLAUDE.local.md
+.serena/
